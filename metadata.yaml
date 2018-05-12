@@ -1,0 +1,31 @@
+_repo: Excelsior_24019
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24019-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry'
+- !lcsh 'Longfellow, Henry Wadsworth, 1807-1882 -- Parodies, imitations, etc.'
+- !lcsh 'Advertising -- Soap'
+- !lcsh 'Advertising -- Poetry'
+- !lcc 'PS'
+title: Excelsior
+url: http://www.gutenberg.org/ebooks/24019
